@@ -9,6 +9,6 @@ npm install wagmi ethers@^5
 $ npm run deploy
 $ npm run dev
 
-# Build and Deploy a Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
+# Build and Deploy a Web3 funding Platform As my First Blockchain Application
 
 ![Crowdfunding](https://i.ibb.co/k6pj0Qt/htum-6.png)
