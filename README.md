@@ -21,6 +21,6 @@ npm run deploy
 npm run dev
 ```
 
-# Build and Deploy a Web3 funding Platform As my First Blockchain Application
+# Build and Deploy a Web3 funding Platform As my Second Blockchain Application
 
 ![Crowdfunding](homepage.png)
